@@ -7,3 +7,11 @@ body {
   background-color: black;
   color: blanchedalmond;
 }
+.tittle {
+  display: grid;
+  grid-template-columns: 35% 65%;
+}
+.tittle img {
+  width: 100%;
+  border-radius: 50%;
+}
